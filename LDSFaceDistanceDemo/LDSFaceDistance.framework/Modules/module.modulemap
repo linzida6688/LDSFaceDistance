@@ -1,0 +1,6 @@
+framework module LDSFaceDistance {
+  umbrella header "LDSFaceDistance.h"
+
+  export *
+  module * { export * }
+}
